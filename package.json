@@ -1,0 +1,22 @@
+{
+  "name": "captain",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "captain",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "^7.1.3"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    
+    "toastr": "^2.1.4"
+  }
+}
