@@ -1,0 +1,2 @@
+# WikiRand
+Wikipedia Random Content
